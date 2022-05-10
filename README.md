@@ -2,7 +2,7 @@
 ## Contents
 - [Content guide](https://github.com/Benjamin144/feature-scope/blob/main/README.md#content-guide)
 - [Project Structure](https://github.com/Benjamin144/feature-scope/blob/main/README.md#project-structure)
-- [Features](https://github.com/Benjamin144/feature-scope/blob/main/README.md#features)
+- [App Features](https://github.com/Benjamin144/feature-scope/blob/main/README.md#app-features)
   - [Features 1 - Recieve price information/storage & time iteration](https://github.com/Benjamin144/feature-scope/blob/main/README.md#features)
   - [Features 2 - Data formatting range over time](https://github.com/Benjamin144/feature-scope/blob/main/README.md#features)
   - [Features 3 - Data visualisation over time](https://github.com/Benjamin144/feature-scope/blob/main/README.md#features)
