@@ -1,0 +1,24 @@
+{
+  "name": "feature-scope",
+  "version": "1.0.0",
+  "description": "Create an application that retrieves prices information from a source and stores that in a local database every 5minutes",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Benjamin144/feature-scope.git"
+  },
+  "author": "Joseph Roberts",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Benjamin144/feature-scope/issues"
+  },
+  "homepage": "https://github.com/Benjamin144/feature-scope#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.10",
+    "express": "^4.18.1"
+  }
+}
