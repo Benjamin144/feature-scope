@@ -31,10 +31,10 @@ axios(url) // this will returm a promise that will be resolved when the task is 
     console.log(list);
   })
   .catch((err) => console.log(err));
+
 // this will then return a response from the server
 // using the listen function here to listen out for featureScope on port 8000 as a constant
 
-featureScope.listen(
-  PORT,
-  () => console.log(`server is listening on PORT ${PORT}`) // passing through a callback here, that was defined on PORT variable, which will listen out for changes made on this file.
-);
+/*need a method to store and update data every five minutes 'localStorage.setItem('item', JSON.stringify(obj))'
+
+refreshing new data from the ISS API and updating the HTML DOM accordingly once per second with setInterval().*/
