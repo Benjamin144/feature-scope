@@ -49,7 +49,7 @@ I will document my work and thought-process, through commits, comments or a log 
 - [npm run start] - using this command in the terminal from JSON start script
 - [server] - listens on PORT:8000
 - [npm-install-request-body-parser-express-handlebars-mongoose-morgan]
-- [mongo] - to start MongoDB locally as a service
+- [node-server] - to listen to port locally
 
 ### Credits**
 
